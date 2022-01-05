@@ -1,0 +1,600 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<map>
+    <string name="last">servers</string>
+    <int name="lastPort" value="10783" />
+    <string name="lastHost">65.21.92.165</string>
+    <string name="servers">{
+  &quot;user&quot;: {
+    &quot;u0&quot;: {
+      &quot;name&quot;: {
+        &quot;en&quot;: &quot;Diamond (rating +50%)&quot;,
+        &quot;ru&quot;: &quot;Алмаз (рейтинг +50%)&quot;
+      },
+      &quot;image&quot;: {
+        &quot;en&quot;: &quot;http://static.rstgames.com/durak/public/serverimages/s_u0en.png?2&quot;,
+        &quot;ru&quot;: &quot;http://static.rstgames.com/durak/public/serverimages/s_u0ru.png?2&quot;
+      },
+      &quot;host&quot;: &quot;65.21.92.165&quot;,
+      &quot;port&quot;: 10770,
+      &quot;android&quot;: 10770,
+      &quot;huawei&quot;: 10770,
+      &quot;weight&quot;: 0.0
+    },
+    &quot;u2&quot;: {
+      &quot;name&quot;: {
+        &quot;en&quot;: &quot;Ruby&quot;,
+        &quot;ru&quot;: &quot;Рубин&quot;
+      },
+      &quot;image&quot;: {
+        &quot;en&quot;: &quot;http://static.rstgames.com/durak/public/serverimages/s_u2en.png?2&quot;,
+        &quot;ru&quot;: &quot;http://static.rstgames.com/durak/public/serverimages/s_u2ru.png?2&quot;
+      },
+      &quot;host&quot;: &quot;65.21.92.165&quot;,
+      &quot;port&quot;: 10772,
+      &quot;android&quot;: 10772,
+      &quot;huawei&quot;: 10772,
+      &quot;weight&quot;: 0.4
+    },
+    &quot;u1&quot;: {
+      &quot;name&quot;: {
+        &quot;en&quot;: &quot;Sapphire&quot;,
+        &quot;ru&quot;: &quot;Сапфир&quot;
+      },
+      &quot;image&quot;: {
+        &quot;en&quot;: &quot;http://static.rstgames.com/durak/public/serverimages/s_u3en.png?2&quot;,
+        &quot;ru&quot;: &quot;http://static.rstgames.com/durak/public/serverimages/s_u3ru.png?2&quot;
+      },
+      &quot;host&quot;: &quot;65.21.92.165&quot;,
+      &quot;port&quot;: 10771,
+      &quot;android&quot;: 10771,
+      &quot;huawei&quot;: 10771,
+      &quot;weight&quot;: 0.1
+    },
+    &quot;u3&quot;: {
+      &quot;name&quot;: {
+        &quot;en&quot;: &quot;Emerald&quot;,
+        &quot;ru&quot;: &quot;Изумруд&quot;
+      },
+      &quot;image&quot;: {
+        &quot;en&quot;: &quot;http://static.rstgames.com/durak/public/serverimages/s_u1en.png?2&quot;,
+        &quot;ru&quot;: &quot;http://static.rstgames.com/durak/public/serverimages/s_u1ru.png?2&quot;
+      },
+      &quot;host&quot;: &quot;65.21.92.165&quot;,
+      &quot;port&quot;: 10773,
+      &quot;android&quot;: 10773,
+      &quot;huawei&quot;: 10773,
+      &quot;weight&quot;: 1.0
+    },
+    &quot;u4&quot;: {
+      &quot;name&quot;: {
+        &quot;en&quot;: &quot;Amethyst&quot;,
+        &quot;ru&quot;: &quot;Аметист&quot;
+      },
+      &quot;image&quot;: {
+        &quot;en&quot;: &quot;http://static.rstgames.com/durak/public/serverimages/s_u4en.png?2&quot;,
+        &quot;ru&quot;: &quot;http://static.rstgames.com/durak/public/serverimages/s_u4ru.png?2&quot;
+      },
+      &quot;host&quot;: &quot;65.21.92.165&quot;,
+      &quot;port&quot;: 10774,
+      &quot;android&quot;: 10774,
+      &quot;huawei&quot;: 10774,
+      &quot;weight&quot;: 1.0
+    },
+    &quot;u5&quot;: {
+      &quot;name&quot;: {
+        &quot;en&quot;: &quot;Aquamarine&quot;,
+        &quot;ru&quot;: &quot;Аквамарин&quot;
+      },
+      &quot;image&quot;: {
+        &quot;en&quot;: &quot;http://static.rstgames.com/durak/public/serverimages/s_u6en.png?2&quot;,
+        &quot;ru&quot;: &quot;http://static.rstgames.com/durak/public/serverimages/s_u6ru.png?2&quot;
+      },
+      &quot;host&quot;: &quot;65.21.92.165&quot;,
+      &quot;port&quot;: 10775,
+      &quot;android&quot;: 10775,
+      &quot;huawei&quot;: 10775,
+      &quot;weight&quot;: 1.0
+    },
+    &quot;u6&quot;: {
+      &quot;name&quot;: {
+        &quot;en&quot;: &quot;Topaz&quot;,
+        &quot;ru&quot;: &quot;Топаз&quot;
+      },
+      &quot;image&quot;: {
+        &quot;en&quot;: &quot;http://static.rstgames.com/durak/public/serverimages/s_u5en.png?2&quot;,
+        &quot;ru&quot;: &quot;http://static.rstgames.com/durak/public/serverimages/s_u5ru.png?2&quot;
+      },
+      &quot;host&quot;: &quot;65.21.92.165&quot;,
+      &quot;port&quot;: 10776,
+      &quot;android&quot;: 10776,
+      &quot;huawei&quot;: 10776,
+      &quot;weight&quot;: 1.0
+    },
+    &quot;u7&quot;: {
+      &quot;name&quot;: {
+        &quot;en&quot;: &quot;Opal&quot;,
+        &quot;ru&quot;: &quot;Опал&quot;
+      },
+      &quot;image&quot;: {
+        &quot;en&quot;: &quot;http://static.rstgames.com/durak/public/serverimages/s_u7en.png?2&quot;,
+        &quot;ru&quot;: &quot;http://static.rstgames.com/durak/public/serverimages/s_u7ru.png?2&quot;
+      },
+      &quot;host&quot;: &quot;65.21.92.165&quot;,
+      &quot;port&quot;: 10777,
+      &quot;android&quot;: 10777,
+      &quot;huawei&quot;: 10777,
+      &quot;weight&quot;: 1.0
+    },
+    &quot;u8&quot;: {
+      &quot;name&quot;: {
+        &quot;en&quot;: &quot;Amber&quot;,
+        &quot;ru&quot;: &quot;Янтарь&quot;
+      },
+      &quot;image&quot;: {
+        &quot;en&quot;: &quot;http://static.rstgames.com/durak/public/serverimages/s_u8en.png?2&quot;,
+        &quot;ru&quot;: &quot;http://static.rstgames.com/durak/public/serverimages/s_u8ru.png?2&quot;
+      },
+      &quot;host&quot;: &quot;65.21.92.165&quot;,
+      &quot;port&quot;: 10778,
+      &quot;android&quot;: 10778,
+      &quot;huawei&quot;: 10778,
+      &quot;weight&quot;: 1.0
+    },
+    &quot;u9&quot;: {
+      &quot;name&quot;: {
+        &quot;en&quot;: &quot;Jade&quot;,
+        &quot;ru&quot;: &quot;Нефрит&quot;
+      },
+      &quot;image&quot;: {
+        &quot;en&quot;: &quot;http://static.rstgames.com/durak/public/serverimages/s_u9en.png?2&quot;,
+        &quot;ru&quot;: &quot;http://static.rstgames.com/durak/public/serverimages/s_u9ru.png?2&quot;
+      },
+      &quot;host&quot;: &quot;65.21.92.165&quot;,
+      &quot;port&quot;: 10779,
+      &quot;android&quot;: 10779,
+      &quot;huawei&quot;: 10779,
+      &quot;weight&quot;: 1.0
+    },
+    &quot;uA&quot;: {
+      &quot;name&quot;: {
+        &quot;en&quot;: &quot;Onyx&quot;,
+        &quot;ru&quot;: &quot;Оникс&quot;
+      },
+      &quot;image&quot;: {
+        &quot;en&quot;: &quot;http://static.rstgames.com/durak/public/serverimages/s_uAen.png?2&quot;,
+        &quot;ru&quot;: &quot;http://static.rstgames.com/durak/public/serverimages/s_uAru.png?2&quot;
+      },
+      &quot;host&quot;: &quot;65.21.92.165&quot;,
+      &quot;port&quot;: 10780,
+      &quot;android&quot;: 10780,
+      &quot;huawei&quot;: 10780,
+      &quot;weight&quot;: 1.0
+    },
+    &quot;uB&quot;: {
+      &quot;name&quot;: {
+        &quot;en&quot;: &quot;Lazurite&quot;,
+        &quot;ru&quot;: &quot;Лазурит&quot;
+      },
+      &quot;image&quot;: {
+        &quot;en&quot;: &quot;http://static.rstgames.com/durak/public/serverimages/s_uBen.png?2&quot;,
+        &quot;ru&quot;: &quot;http://static.rstgames.com/durak/public/serverimages/s_uBru.png?2&quot;
+      },
+      &quot;host&quot;: &quot;65.21.92.165&quot;,
+      &quot;port&quot;: 10781,
+      &quot;android&quot;: 10781,
+      &quot;huawei&quot;: 10781,
+      &quot;weight&quot;: 1.0
+    },
+    &quot;uC&quot;: {
+      &quot;name&quot;: {
+        &quot;en&quot;: &quot;Pearls&quot;,
+        &quot;ru&quot;: &quot;Жемчуг&quot;
+      },
+      &quot;image&quot;: {
+        &quot;en&quot;: &quot;http://static.rstgames.com/durak/public/serverimages/s_uCen.png?2&quot;,
+        &quot;ru&quot;: &quot;http://static.rstgames.com/durak/public/serverimages/s_uCru.png?2&quot;
+      },
+      &quot;host&quot;: &quot;65.21.92.165&quot;,
+      &quot;port&quot;: 10782,
+      &quot;android&quot;: 10782,
+      &quot;huawei&quot;: 10782,
+      &quot;weight&quot;: 1.0
+    },
+    &quot;uD&quot;: {
+      &quot;name&quot;: {
+        &quot;en&quot;: &quot;Alexandrite&quot;,
+        &quot;ru&quot;: &quot;Александрит&quot;
+      },
+      &quot;image&quot;: {
+        &quot;en&quot;: &quot;http://static.rstgames.com/durak/public/serverimages/s_uDen.png?2&quot;,
+        &quot;ru&quot;: &quot;http://static.rstgames.com/durak/public/serverimages/s_uDru.png?2&quot;
+      },
+      &quot;host&quot;: &quot;65.21.92.165&quot;,
+      &quot;port&quot;: 10783,
+      &quot;android&quot;: 10783,
+      &quot;huawei&quot;: 10783,
+      &quot;weight&quot;: 1.0
+    }
+  },
+  &quot;shuffle_android&quot;:176,
+  &quot;shuffle_ios&quot;: 176,
+  &quot;shuffle_huawei&quot;: 176,
+  &quot;avatar_size&quot;: 200,
+  &quot;chat_img_size&quot;: 1024,
+  &quot;reconnect_interval&quot;:  5000,
+  &quot;help&quot;: {
+    &quot;android&quot;: {
+      &quot;en&quot;: &quot;http://static.rstgames.com/durak/public/android/en/help.html&quot;,
+      &quot;ru&quot;: &quot;http://static.rstgames.com/durak/public/android/ru/help.html&quot;,
+      &quot;hy&quot;: &quot;http://static.rstgames.com/durak/public/android/hy/help.html&quot;,
+      &quot;az&quot;: &quot;http://static.rstgames.com/durak/public/android/az/help.html&quot;,
+      &quot;de&quot;: &quot;http://static.rstgames.com/durak/public/android/de/help.html&quot;,
+      &quot;es&quot;: &quot;http://static.rstgames.com/durak/public/android/es/help.html&quot;,
+      &quot;fr&quot;: &quot;http://static.rstgames.com/durak/public/android/fr/help.html&quot;,
+      &quot;it&quot;: &quot;http://static.rstgames.com/durak/public/android/it/help.html&quot;,
+      &quot;tr&quot;: &quot;http://static.rstgames.com/durak/public/android/tr/help.html&quot;,
+      &quot;he&quot;: &quot;http://static.rstgames.com/durak/public/android/he/help.html&quot;,
+      &quot;uk&quot;: &quot;http://static.rstgames.com/durak/public/android/uk/help.html&quot;
+    },
+    &quot;huawei&quot;: {
+      &quot;en&quot;: &quot;http://static.rstgames.com/durak/public/huawei/en/help.html&quot;,
+      &quot;ru&quot;: &quot;http://static.rstgames.com/durak/public/huawei/ru/help.html&quot;
+    },
+    &quot;ios&quot;: {
+      &quot;en&quot;: &quot;http://static.rstgames.com/durak/public/en/help.html&quot;,
+      &quot;ru&quot;: &quot;http://static.rstgames.com/durak/public/ru/help.html&quot;,
+      &quot;hy&quot;: &quot;http://static.rstgames.com/durak/public/hy/help.html&quot;,
+      &quot;az&quot;: &quot;http://static.rstgames.com/durak/public/az/help.html&quot;,
+      &quot;de&quot;: &quot;http://static.rstgames.com/durak/public/de/help.html&quot;,
+      &quot;es&quot;: &quot;http://static.rstgames.com/durak/public/es/help.html&quot;,
+      &quot;fr&quot;: &quot;http://static.rstgames.com/durak/public/fr/help.html&quot;,
+      &quot;it&quot;: &quot;http://static.rstgames.com/durak/public/it/help.html&quot;,
+      &quot;tr&quot;: &quot;http://static.rstgames.com/durak/public/tr/help.html&quot;,
+      &quot;he&quot;: &quot;http://static.rstgames.com/durak/public/he/help.html&quot;,
+      &quot;uk&quot;: &quot;http://static.rstgames.com/durak/public/uk/help.html&quot;
+    }
+  },
+  &quot;tos&quot;: {
+    &quot;android&quot;: {
+      &quot;en&quot;: &quot;http://static.rstgames.com/durak/public/android/en/tos.html&quot;,
+      &quot;ru&quot;: &quot;http://static.rstgames.com/durak/public/android/ru/tos.html&quot;,
+      &quot;hy&quot;: &quot;http://static.rstgames.com/durak/public/android/hy/tos.html&quot;,
+      &quot;az&quot;: &quot;http://static.rstgames.com/durak/public/android/az/tos.html&quot;,
+      &quot;de&quot;: &quot;http://static.rstgames.com/durak/public/android/de/tos.html&quot;,
+      &quot;es&quot;: &quot;http://static.rstgames.com/durak/public/android/es/tos.html&quot;,
+      &quot;fr&quot;: &quot;http://static.rstgames.com/durak/public/android/fr/tos.html&quot;,
+      &quot;it&quot;: &quot;http://static.rstgames.com/durak/public/android/it/tos.html&quot;,
+      &quot;tr&quot;: &quot;http://static.rstgames.com/durak/public/android/tr/tos.html&quot;,
+      &quot;he&quot;: &quot;http://static.rstgames.com/durak/public/android/he/tos.html&quot;,
+      &quot;uk&quot;: &quot;http://static.rstgames.com/durak/public/android/uk/tos.html&quot;
+    },
+    &quot;huawei&quot;: {
+      &quot;en&quot;: &quot;http://static.rstgames.com/durak/public/huawei/en/tos.html&quot;,
+      &quot;ru&quot;: &quot;http://static.rstgames.com/durak/public/huawei/ru/tos.html&quot;
+    },
+    &quot;ios&quot;: {
+      &quot;en&quot;: &quot;http://static.rstgames.com/durak/public/en/tos.html&quot;,
+      &quot;ru&quot;: &quot;http://static.rstgames.com/durak/public/ru/tos.html&quot;,
+      &quot;hy&quot;: &quot;http://static.rstgames.com/durak/public/hy/tos.html&quot;,
+      &quot;az&quot;: &quot;http://static.rstgames.com/durak/public/az/tos.html&quot;,
+      &quot;de&quot;: &quot;http://static.rstgames.com/durak/public/de/tos.html&quot;,
+      &quot;es&quot;: &quot;http://static.rstgames.com/durak/public/es/tos.html&quot;,
+      &quot;fr&quot;: &quot;http://static.rstgames.com/durak/public/fr/tos.html&quot;,
+      &quot;it&quot;: &quot;http://static.rstgames.com/durak/public/it/tos.html&quot;,
+      &quot;tr&quot;: &quot;http://static.rstgames.com/durak/public/tr/tos.html&quot;,
+      &quot;he&quot;: &quot;http://static.rstgames.com/durak/public/he/tos.html&quot;,
+      &quot;uk&quot;: &quot;http://static.rstgames.com/durak/public/uk/tos.html&quot;
+    }
+  },
+  &quot;news&quot;: {
+    &quot;android&quot;: {
+      &quot;en&quot;: &quot;http://static.rstgames.com/durak/public/android/en/news.html&quot;,
+      &quot;ru&quot;: &quot;http://static.rstgames.com/durak/public/android/ru/news.html&quot;,
+      &quot;hy&quot;: &quot;http://static.rstgames.com/durak/public/android/hy/news.html&quot;,
+      &quot;az&quot;: &quot;http://static.rstgames.com/durak/public/android/az/news.html&quot;,
+      &quot;de&quot;: &quot;http://static.rstgames.com/durak/public/android/de/news.html&quot;,
+      &quot;es&quot;: &quot;http://static.rstgames.com/durak/public/android/es/news.html&quot;,
+      &quot;fr&quot;: &quot;http://static.rstgames.com/durak/public/android/fr/news.html&quot;,
+      &quot;it&quot;: &quot;http://static.rstgames.com/durak/public/android/it/news.html&quot;,
+      &quot;tr&quot;: &quot;http://static.rstgames.com/durak/public/android/tr/news.html&quot;,
+      &quot;he&quot;: &quot;http://static.rstgames.com/durak/public/android/he/news.html&quot;,
+      &quot;uk&quot;: &quot;http://static.rstgames.com/durak/public/android/uk/news.html&quot;
+    },
+    &quot;huawei&quot;: {
+      &quot;en&quot;: &quot;http://static.rstgames.com/durak/public/huawei/en/news.html&quot;,
+      &quot;ru&quot;: &quot;http://static.rstgames.com/durak/public/huawei/ru/news.html&quot;
+    },
+    &quot;ios&quot;: {
+      &quot;en&quot;: &quot;http://static.rstgames.com/durak/public/en/news.html&quot;,
+      &quot;ru&quot;: &quot;http://static.rstgames.com/durak/public/ru/news.html&quot;,
+      &quot;hy&quot;: &quot;http://static.rstgames.com/durak/public/hy/news.html&quot;,
+      &quot;az&quot;: &quot;http://static.rstgames.com/durak/public/az/news.html&quot;,
+      &quot;de&quot;: &quot;http://static.rstgames.com/durak/public/de/news.html&quot;,
+      &quot;es&quot;: &quot;http://static.rstgames.com/durak/public/es/news.html&quot;,
+      &quot;fr&quot;: &quot;http://static.rstgames.com/durak/public/fr/news.html&quot;,
+      &quot;it&quot;: &quot;http://static.rstgames.com/durak/public/it/news.html&quot;,
+      &quot;tr&quot;: &quot;http://static.rstgames.com/durak/public/tr/news.html&quot;,
+      &quot;he&quot;: &quot;http://static.rstgames.com/durak/public/he/news.html&quot;,
+      &quot;uk&quot;: &quot;http://static.rstgames.com/durak/public/uk/news.html&quot;
+    }
+  },
+  &quot;share&quot;: {
+    &quot;android&quot;: {
+      &quot;en&quot;: &quot;http://durak.rstgames.com/android/en/index.html&quot;,
+      &quot;ru&quot;: &quot;http://durak.rstgames.com/android/ru/index.html&quot;,
+      &quot;hy&quot;: &quot;http://durak.rstgames.com/android/hy/index.html&quot;,
+      &quot;az&quot;: &quot;http://durak.rstgames.com/android/az/index.html&quot;,
+      &quot;de&quot;: &quot;http://durak.rstgames.com/android/de/index.html&quot;,
+      &quot;es&quot;: &quot;http://durak.rstgames.com/android/es/index.html&quot;,
+      &quot;fr&quot;: &quot;http://durak.rstgames.com/android/fr/index.html&quot;,
+      &quot;it&quot;: &quot;http://durak.rstgames.com/android/it/index.html&quot;,
+      &quot;tr&quot;: &quot;http://durak.rstgames.com/android/tr/index.html&quot;,
+      &quot;he&quot;: &quot;http://durak.rstgames.com/android/he/index.html&quot;,
+      &quot;uk&quot;: &quot;http://durak.rstgames.com/android/uk/index.html&quot;
+    },
+    &quot;huawei&quot;: {
+      &quot;en&quot;: &quot;http://durak.rstgames.com/huawei/en/index.html&quot;,
+      &quot;ru&quot;: &quot;http://durak.rstgames.com/huawei/ru/index.html&quot;
+    },
+    &quot;ios&quot;: {
+      &quot;en&quot;: &quot;http://durak.rstgames.com/en/index.html&quot;,
+      &quot;ru&quot;: &quot;http://durak.rstgames.com/ru/index.html&quot;,
+      &quot;hy&quot;: &quot;http://durak.rstgames.com/hy/index.html&quot;,
+      &quot;az&quot;: &quot;http://durak.rstgames.com/az/index.html&quot;,
+      &quot;de&quot;: &quot;http://durak.rstgames.com/de/index.html&quot;,
+      &quot;es&quot;: &quot;http://durak.rstgames.com/es/index.html&quot;,
+      &quot;fr&quot;: &quot;http://durak.rstgames.com/fr/index.html&quot;,
+      &quot;it&quot;: &quot;http://durak.rstgames.com/it/index.html&quot;,
+      &quot;tr&quot;: &quot;http://durak.rstgames.com/tr/index.html&quot;,
+      &quot;he&quot;: &quot;http://durak.rstgames.com/he/index.html&quot;,
+      &quot;uk&quot;: &quot;http://durak.rstgames.com/uk/index.html&quot;
+    }
+  },
+  &quot;flags&quot;: {
+    &quot;android&quot;: {
+      &quot;en&quot;: &quot;http://static.rstgames.com/durak/public/android/en/en.png&quot;,
+      &quot;ru&quot;: &quot;http://static.rstgames.com/durak/public/android/ru/ru.png&quot;,
+      &quot;hy&quot;: &quot;http://static.rstgames.com/durak/public/android/hy/hy.png&quot;,
+      &quot;az&quot;: &quot;http://static.rstgames.com/durak/public/android/az/az.png&quot;,
+      &quot;de&quot;: &quot;http://static.rstgames.com/durak/public/android/de/de.png&quot;,
+      &quot;es&quot;: &quot;http://static.rstgames.com/durak/public/android/es/es.png&quot;,
+      &quot;fr&quot;: &quot;http://static.rstgames.com/durak/public/android/fr/fr.png&quot;,
+      &quot;it&quot;: &quot;http://static.rstgames.com/durak/public/android/it/it.png&quot;,
+      &quot;tr&quot;: &quot;http://static.rstgames.com/durak/public/android/tr/tr.png&quot;,
+      &quot;he&quot;: &quot;http://static.rstgames.com/durak/public/android/he/he.png&quot;,
+      &quot;uk&quot;: &quot;http://static.rstgames.com/durak/public/android/uk/uk.png&quot;
+    },
+    &quot;ios&quot;: {
+      &quot;en&quot;: &quot;http://static.rstgames.com/durak/public/en/en.png&quot;,
+      &quot;ru&quot;: &quot;http://static.rstgames.com/durak/public/ru/ru.png&quot;,
+      &quot;hy&quot;: &quot;http://static.rstgames.com/durak/public/hy/hy.png&quot;,
+      &quot;az&quot;: &quot;http://static.rstgames.com/durak/public/az/az.png&quot;,
+      &quot;de&quot;: &quot;http://static.rstgames.com/durak/public/de/de.png&quot;,
+      &quot;es&quot;: &quot;http://static.rstgames.com/durak/public/es/es.png&quot;,
+      &quot;fr&quot;: &quot;http://static.rstgames.com/durak/public/fr/fr.png&quot;,
+      &quot;it&quot;: &quot;http://static.rstgames.com/durak/public/it/it.png&quot;,
+      &quot;tr&quot;: &quot;http://static.rstgames.com/durak/public/tr/tr.png&quot;,
+      &quot;he&quot;: &quot;http://static.rstgames.com/durak/public/he/he.png&quot;,
+      &quot;uk&quot;: &quot;http://static.rstgames.com/durak/public/uk/uk.png&quot;
+    }
+  },
+  &quot;store&quot;: &quot;store.rstgames.com&quot;,
+  &quot;assets_url&quot;: &quot;http://static.rstgames.com/durak/assets/&quot;,
+  &quot;assets_url_android&quot;: &quot;http://static.rstgames.com/durak/assets/&quot;,
+  &quot;assets_count&quot;: 0,
+  &quot;assets&quot;: {
+    &quot;smile_classic&quot;:   11,
+    &quot;smile_g_blond&quot;:   10,
+    &quot;smile_g_dark&quot;:    10,
+    &quot;smile_m_blond&quot;:   11,
+    &quot;smile_m_dark&quot;:    10,
+    &quot;smile_cat&quot;:       10,
+    &quot;smile_panda&quot;:     10,
+    &quot;smile_raccoon&quot;:   10,
+    &quot;smile_m_long&quot;:    10,
+    &quot;smile_g_glam&quot;:    10,
+    &quot;smile_g_veil&quot;:    10,
+    &quot;shirt_classic&quot;:   15,
+    &quot;shirt_gzhel&quot;:     15,
+    &quot;shirt_greenblue&quot;: 13,
+    &quot;shirt_redblue&quot;:   13,
+    &quot;shirt_khokhloma&quot;: 15,
+    &quot;shirt_buta&quot;:      15,
+    &quot;frame_classic&quot;:   10,
+    &quot;frame_chain&quot;:      3,
+    &quot;frame_flower&quot;:     10,
+    &quot;frame_leafs&quot;:     14,
+    &quot;frame_nimb&quot;:     12,
+    &quot;frame_heart&quot;:11,
+    &quot;frame_heartchain&quot;:11,
+    &quot;frame_stars&quot;:2,
+    &quot;smile_suntan&quot;:16,
+    &quot;shirt_gold&quot;:8,
+    &quot;shirt_wolf&quot;:8,
+    &quot;shirt_spider&quot;:8,
+    &quot;smile_pumkin&quot;:2,
+    &quot;smile_santa&quot;:2,
+    &quot;smile_sun&quot;:4,
+    &quot;smile_spring&quot;:1
+  },
+
+  &quot;achieves_url&quot;: &quot;http://static.rstgames.com/durak/achieves/&quot;,
+  &quot;achieves_url_android&quot;: &quot;http://static.rstgames.com/durak/achieves/&quot;,
+  &quot;achieves_count&quot;: 58,
+  &quot;achieves&quot;: {
+    &quot;no_achieve&quot; :      1,
+    &quot;win_pts_100&quot; :     1,
+    &quot;win_pts_1000&quot; :      1,
+    &quot;win_pts_10000&quot; :     1,
+    &quot;win_pts_100000&quot; :    1,
+    &quot;win_pts_1000000&quot; :    1,
+    &quot;rating_160k&quot; :     1,
+    &quot;rating_320k&quot; :     1,
+    &quot;rating_480k&quot; :     1,
+    &quot;rating_640k&quot; :     1,
+    &quot;rating_800k&quot; :     1,
+    &quot;friend_1&quot; :        1,
+    &quot;friend_10&quot; :       1,
+    &quot;points_10k&quot; :      1,
+    &quot;points_100k&quot; :     1,
+    &quot;points_1m&quot; :       1,
+    &quot;points_10m&quot; :      1,
+    &quot;points_100m&quot; :      1,
+    &quot;points_1b&quot; :      1,
+    &quot;streak_3&quot; :        1,
+    &quot;streak_5&quot; :        1,
+    &quot;streak_7&quot; :        1,
+    &quot;streak_10&quot; :       1,
+    &quot;streak_20&quot; :       1,
+    &quot;streak_50&quot; :       1,
+    &quot;wins_100&quot; :        1,
+    &quot;wins_250&quot; :        1,
+    &quot;wins_500&quot; :        1,
+    &quot;wins_1000&quot; :       1,
+    &quot;wins_2500&quot; :       1,
+    &quot;wins_5000&quot; :       1,
+    &quot;wins_10000&quot; :      1,
+    &quot;draw_1&quot; :          1,
+    &quot;draw_3&quot; :          1,
+    &quot;draw_5&quot; :          1,
+    &quot;draw_10&quot; :         1,
+    &quot;draw_20&quot; :         1,
+    &quot;draw_50&quot; :         1,
+    &quot;draw_100&quot; :        1,
+    &quot;lose_game_ace&quot; :      1,
+    &quot;report_cheater&quot; :      1,
+    &quot;cheat_success&quot; :      1,
+    &quot;quad&quot; :      1,
+    &quot;lucky&quot; :      1,
+    &quot;frame_medal_bronze&quot;:10,
+    &quot;frame_medal_silver&quot;:10,
+    &quot;frame_medal_gold&quot;:  10
+  },
+  &quot;games&quot;: {
+    &quot;status_android&quot;: true,
+    &quot;status_ios&quot;: true,
+    &quot;shuffle_android&quot;:9,
+    &quot;shuffle_ios&quot;: 9,
+    &quot;apps&quot;: {
+      &quot;loto&quot;: {
+        &quot;sort&quot;: 60,
+        &quot;app&quot;: {
+          &quot;ios&quot;: &quot;581739568&quot;,
+          &quot;android&quot; : &quot;com.rstgames.loto&quot;
+        },
+        &quot;name&quot;: {
+          &quot;ru&quot;: &quot;Лото Онлайн&quot;,
+          &quot;en&quot;: &quot;Loto Online&quot;
+        },
+        &quot;icon&quot;: {
+          &quot;ios&quot;: &quot;http://static.rstgames.com/loto/public/image/logo_160.png&quot;,
+          &quot;android&quot;: &quot;http://static.rstgames.com/loto/public/image/logo_160.png&quot;
+        }
+      },
+      &quot;poker&quot; : {
+        &quot;sort&quot;: 50,
+        &quot;app&quot;: {
+          &quot;ios&quot;: &quot;1077750528&quot;,
+          &quot;android&quot; : &quot;com.rstgames.poker&quot;
+        },
+        &quot;name&quot;: {
+          &quot;ru&quot;: &quot;Покер Онлайн&quot;,
+          &quot;en&quot;: &quot;Poker Online&quot;
+        },
+        &quot;icon&quot;: {
+          &quot;ios&quot;: &quot;http://static.rstgames.com/poker/public/image/poker_160.png&quot;,
+          &quot;android&quot;: &quot;http://static.rstgames.com/poker/public/image/poker_160.png&quot;
+        }
+      },
+      &quot;backgammon&quot; : {
+        &quot;sort&quot;: 40,
+        &quot;app&quot;: {
+          &quot;ios&quot;: &quot;1144538463&quot;,
+          &quot;android&quot; : &quot;com.rstgames.backgammon&quot;
+        },
+        &quot;name&quot;: {
+          &quot;ru&quot;: &quot;Нарды Онлайн&quot;,
+          &quot;en&quot;: &quot;Backgammon Online&quot;
+        },
+        &quot;icon&quot;: {
+          &quot;ios&quot;: &quot;http://static.rstgames.com/bg/public/image/bg_160.png&quot;,
+          &quot;android&quot;: &quot;http://static.rstgames.com/bg/public/image/bg_160.png&quot;
+        }
+      },
+      &quot;game101&quot; : {
+        &quot;sort&quot;: 30,
+        &quot;app&quot;: {
+          &quot;ios&quot;: &quot;1339073937&quot;,
+          &quot;android&quot; : &quot;com.rstgames.game101&quot;
+        },
+        &quot;name&quot;: {
+          &quot;ru&quot;: &quot;Сто Одно Онлайн&quot;,
+          &quot;en&quot;: &quot;Mau Mau Online&quot;
+        },
+        &quot;icon&quot;: {
+          &quot;ios&quot;: &quot;http://static.rstgames.com/101/public/image/101_160.png&quot;,
+          &quot;android&quot;: &quot;http://static.rstgames.com/101/public/image/101_160.png&quot;
+        }
+      },
+      &quot;roul&quot; : {
+        &quot;sort&quot;: 20,
+        &quot;app&quot;: {
+          &quot;ios&quot;: &quot;1374767832&quot;,
+          &quot;android&quot; : &quot;com.rstgames.roul&quot;
+        },
+        &quot;name&quot;: {
+          &quot;ru&quot;: &quot;Рулетка Онлайн&quot;,
+          &quot;en&quot;: &quot;Roulette Online&quot;
+        },
+        &quot;icon&quot;: {
+          &quot;ios&quot;: &quot;http://static.rstgames.com/roul/public/image/roul_160.png&quot;,
+          &quot;android&quot;: &quot;http://static.rstgames.com/roul/public/image/roul_160.png&quot;
+        }
+      },
+      &quot;checkers&quot; : {
+        &quot;sort&quot;: 10,
+        &quot;app&quot;: {
+          &quot;ios&quot;: &quot;1572795201&quot;,
+          &quot;android&quot; : &quot;com.rstgames.checkers&quot;
+        },
+        &quot;name&quot;: {
+          &quot;ru&quot;: &quot;Шашки Онлайн&quot;,
+          &quot;en&quot;: &quot;Checkers Online&quot;
+        },
+        &quot;icon&quot;: {
+          &quot;ios&quot;: &quot;http://static.rstgames.com/che/public/image/che_160.png&quot;,
+          &quot;android&quot;: &quot;http://static.rstgames.com/che/public/image/che_160.png&quot;
+        }
+      },
+      &quot;domino&quot; : {
+        &quot;sort&quot;: 5,
+        &quot;app&quot;: {
+          &quot;ios&quot;: &quot;1526121198&quot;,
+          &quot;android&quot; : &quot;com.rstgames.domino&quot;
+        },
+        &quot;name&quot;: {
+          &quot;ru&quot;: &quot;Домино Онлайн&quot;,
+          &quot;en&quot;: &quot;Dominoes Online&quot;
+        },
+        &quot;icon&quot;: {
+          &quot;ios&quot;: &quot;https://domino.rstgames.com/s/client/domino_160.png&quot;,
+          &quot;android&quot;: &quot;https://domino.rstgames.com/s/client/domino_160.png&quot;
+        }
+      },
+      &quot;wordboom&quot; : {
+        &quot;sort&quot;: 4,
+        &quot;app&quot;: {
+          &quot;android&quot; : &quot;com.rstgames.wordboom&quot;
+        },
+        &quot;name&quot;: {
+          &quot;ru&quot;: &quot;Словобум Онлайн&quot;,
+          &quot;en&quot;: &quot;Wordboom Online&quot;
+        },
+        &quot;icon&quot;: {
+          &quot;android&quot;: &quot;https://wordboom.rstgames.com/s/client/wordboom_160.png&quot;
+        }
+      }
+    }
+  }
+}</string>
+</map>
