@@ -1,8 +1,12 @@
 # Info
 I have installed the game on a Nox emulator and that's what I found in the data folder of the app.
+
 ![folders inside com.rstgames.durak](/images/image1.png)
+
 Inside the shared_prefs here is what you can found
+
 ![files inside shared_prefs](/images/image2.png)
+
 In FLURRY_SHARED_PREFERENCES you can find this:
 ```xml
 <?xml version='1.0' encoding='utf-8' standalone='yes' ?>
@@ -36,4 +40,4 @@ And in the RSTGAMES.xml file you can find the following code
     <long name="previous time" value="1639926712549" />
 </map>
 ```
-This is just to show what you can find inside de data folder, the value of each key has been modified, to try something you might need to install the game to get real data.
+This is just to show what you can find inside the data folder, the value of each key has been modified, to try something you might need to install the game to get real data.
