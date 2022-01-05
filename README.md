@@ -41,4 +41,4 @@ And in the RSTGAMES.xml file you can find the following code:
     <long name="previous time" value="1639926712549" />
 </map>
 ```
-This is just to show what you can find inside the data folder, the value of each is not accurate, to try something you might need to install the game to get real data.
+This is just to show what you can find inside the data folder, the value of each key is not accurate, to try something you might need to install the game to get real data.
